@@ -1,5 +1,5 @@
 # Class Attributes and Methods Lab
-
+ 
 ## Learning Goals
 
 - Use class attributes and methods to write durable and powerful code.
